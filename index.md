@@ -19,5 +19,7 @@ We are fully aware that there is at the moment only partial agreement on the  an
 
 ## References
 ```
-Massimo  Poesio,  Florence  Bruneseaux,  and  Laurent  Romary.  1999.   TheMATE  meta-scheme  for  coreference  in  dialogues  in  multiple  languages.InProc.  of  the  ACL  Workshop  on  Standards  and  Tools  for  DiscourseTagging, pages 65–74.
+Massimo Poesio, Florence  Bruneseaux, and Laurent Romary. 1999.   
+The MATE meta-scheme for coreference in dialogues in multiple languages.
+InProc. of the ACL Workshop on Standards and Tools for Discourse Tagging, pages 65–74.
 ```
