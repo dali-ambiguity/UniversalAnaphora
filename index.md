@@ -17,6 +17,10 @@ We are fully aware that there is at the moment only partial agreement on the  an
 
 ### More to follow soon!
 
+![Logo SVG](grey1.svg)
+![Logo SVG](grey1.png)
+![Logo SVG](grey2.png)
+
 ## References
 ```
 Massimo Poesio, Florence  Bruneseaux, and Laurent Romary. 1999.   
